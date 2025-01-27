@@ -22,7 +22,7 @@ $ termux-wake-lock
 
 $ bash insfollow.sh
 
-# Practical Tutorial
+
 
 # Contact Us
 
