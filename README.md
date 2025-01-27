@@ -12,9 +12,9 @@ $ pkg install curl
 
 $ pkg install git
 
-$ git clone https://github.com/SulimanHacker1/instafollowers.git
+$ git clone https://github.com/mentorkevin/Instagram-followers.git
 
-$ cd instafollowers
+$ cd Instagram-followers
 
 $ chmod +x insfollow.sh
 
@@ -24,13 +24,11 @@ $ bash insfollow.sh
 
 # Practical Tutorial
 
-[![IMAGE ALT TEXT HERE](https://github.com/SulimanHacker1/instafollowers/blob/main/image.PNG)](https://www.youtube.com/watch?v=U0JFbFwM_Rc)
-
-
+[![IMAGE ALT TEXT HERE](https://github.com/mentorkevin/Instagram-followers/blob/main/image.PNG)]
 # Contact Us
 
 ✅ Instagram
 
-[![IMAGE ALT TEXT HERE](https://blogger.googleusercontent.com/img/a/AVvXsEipuEG6quyPqRkzdROX2AGb0pV2GPVgw764PtQKVWgDPqoYsBa8H3McNetSYW4uxFgqB43DglP_fZQ5MmGk0avpbSromt0ClF5Y0jd48Q7bNSh_BHfO5Kz5zJ3AhkGfp0vHeLjGuLPki59oXU3ApEHBKAJLWvIa0RIxkNOnvVZ4ZETxlsjJ-lBrA-zLqhg=s322)](https://www.instagram.com/sulimanhacker_/)
+[![IMAGE ALT TEXT HERE](https://blogger.googleusercontent.com/img/a/AVvXsEipuEG6quyPqRkzdROX2AGb0pV2GPVgw764PtQKVWgDPqoYsBa8H3McNetSYW4uxFgqB43DglP_fZQ5MmGk0avpbSromt0ClF5Y0jd48Q7bNSh_BHfO5Kz5zJ3AhkGfp0vHeLjGuLPki59oXU3ApEHBKAJLWvIa0RIxkNOnvVZ4ZETxlsjJ-lBrA-zLqhg=s322)](https://www.instagram.com/mentor_kevin_official/)
 
 ✅ website -https://sulimanhacker.blogspot.com
