@@ -29,5 +29,3 @@ $ bash insfollow.sh
 ✅ Instagram
 
 [![IMAGE ALT TEXT HERE](https://github.com/mentorkevin/Instagram-followers/blob/main/image.PNG)](https://www.instagram.com/mentor_kevin_official/)
-
-✅ website -https://sulimanhacker.blogspot.com
